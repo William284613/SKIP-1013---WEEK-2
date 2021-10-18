@@ -1,0 +1,60 @@
+package Exercise2;
+
+public class checkerPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(" * "+" * "+" * "+" * "+" * ");
+		System.out.println(" "+" * "+" * "+" * "+" * "+" * ");
+		System.out.println(" * "+" * "+" * "+" * "+" * ");
+		System.out.println(" "+" * "+" * "+" * "+" * "+" * ");
+		System.out.println(" * "+" * "+" * "+" * "+" * ");
+	}
+
+}
+
+package Exercise2;
+
+public class SquarePattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(" * "+" * "+" * "+" * "+" * ");
+		System.out.println(" * "+"  "+"  "+"  "+"   "+" * ");
+		System.out.println(" * "+"  "+"  "+"  "+"   "+" * ");
+		System.out.println(" * "+"  "+"  "+"  "+"   "+" * ");
+		System.out.println(" * "+" * "+" * "+" * "+" * ");
+
+	}
+
+}
+package Exercise2;
+
+public class startPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("\t*");
+		System.out.println("   * "+"*"+"    "+"* "+"*");
+		System.out.println("    "+"  "+" * *  ");
+		System.out.println("   "+"  "+" *   *");
+		System.out.println("   "+"  "+"*     *");
+	}
+
+}
+
+package Exercise2;
+
+public class triangularPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(" * "+" * "+" * "+" * "+" * ");
+		System.out.println("  "+" * "+"  "+"  "+" "+" * "+"  ");
+		System.out.println("  "+"  "+" * "+"  "+" *  "+"  ");
+		System.out.println("  "+"  "+"  "+" ** "+"   "+"  ");
+		System.out.println("  "+"  "+"  "+"  * "+"  ");
+	}
+
+}
+
