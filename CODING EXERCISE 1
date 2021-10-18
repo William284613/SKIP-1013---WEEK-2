@@ -1,0 +1,14 @@
+package mylife;
+
+public class UniLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("\t Hi, I'm William From UUM, who taking B.Computer Science course, A211 Intake Session.");
+		System.out.println("Every morning i having my breakfast first before going to class, i like to having a cup of coffee so that i can energitic / motivate myself to focus during the tutorial class.");
+		System.out.println("I like to having programming / mathematical class in the very morning / the first class of the day,\nbecause this make me able to think and able to handle all high intensive task with my fresh brain in the morning session class.");
+		System.out.println("\t Before heading to the afternoon session class, i like to having lunch with my friend together, to fullfiled my straving stomach and have a short nap in dorm to let my brain rest, \nto make myselft ready for the afternoon classes.");
+		System.out.println("\tDuring night time, i also like to having dinner with my friends. Once finish dinner, we always having group study together to discussing our assingment group work \nand make some revision to end up an summaraise my study for the day.");
+	}
+
+}
