@@ -8,14 +8,14 @@ public class UniLife {
 		System.out.println("7:30 - 8:00 a.m. : Breakfast time");
 		System.out.println("8:00 - 8:30 a.m. : attend to class");
 		System.out.println("8:30 a.m.- 12:00 p.m. : Attend class");
-		System.out.println("12:00 p.m. - 1:00 p.m. : Break and having lunch");
-		System.out.println("1:00 p.m. - 5:30 p.m. : attend class");
-		System.out.println("5:30 p.m. - 6:00 p.m. : Go to mall and get some foods/snacks");
-		System.out.println("6:00 p.m. - 7:00 p.m. : Have dinner with friends");
-		System.out.println("7:00 p.m. - 7:30 p.m. : Back to inasis");
-		System.out.println("7:30 p.m. - 8:00 p.m. : Rest");
-		System.out.println("8:00 p.m. - 10:00 p.m. : Checking/ work with assignemnt / programming session");
-		System.out.println("10:00 p.m. - 11:00 p.m. : Entertainment time/exploring to social media, prepared for the next day TO DO LIST");
+		System.out.println("12:00 - 1:00 p.m. : Break and having lunch");
+		System.out.println("1:00 - 5:30 p.m. : attend class");
+		System.out.println("5:30 - 6:00 p.m. : Go to mall and get some foods/snacks");
+		System.out.println("6:00 - 7:00 p.m. : Have dinner with friends");
+		System.out.println("7:00 - 7:30 p.m. : Back to inasis");
+		System.out.println("7:30 - 8:00 p.m. : Rest");
+		System.out.println("8:00 - 10:00 p.m. : Checking/ work with assignemnt / programming session");
+		System.out.println("10:00 - 11:00 p.m. : Entertainment time/exploring to social media, prepared for the next day TO DO LIST");
 		System.out.println("11:00 p.m. : The end of the day");
 	}
 }
