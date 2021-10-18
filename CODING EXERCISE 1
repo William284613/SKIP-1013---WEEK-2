@@ -4,11 +4,18 @@ public class UniLife {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("\t Hi, I'm William From UUM, who taking B.Computer Science course, A211 Intake Session.");
-		System.out.println("Every morning i having my breakfast first before going to class, i like to having a cup of coffee so that i can energitic / motivate myself to focus during the tutorial class.");
-		System.out.println("I like to having programming / mathematical class in the very morning / the first class of the day,\nbecause this make me able to think and able to handle all high intensive task with my fresh brain in the morning session class.");
-		System.out.println("\t Before heading to the afternoon session class, i like to having lunch with my friend together, to fullfiled my straving stomach and have a short nap in dorm to let my brain rest, \nto make myselft ready for the afternoon classes.");
-		System.out.println("\tDuring night time, i also like to having dinner with my friends. Once finish dinner, we always having group study together to discussing our assingment group work \nand make some revision to end up an summaraise my study for the day.");
+		System.out.println("7:00 - 7:30 a.m. : Wake up and prepare my proper dressing");
+		System.out.println("7:30 - 8:00 a.m. : Breakfast time");
+		System.out.println("8:00 - 8:30 a.m. : attend to class");
+		System.out.println("8:30 a.m.- 12:00 p.m. : Attend class");
+		System.out.println("12:00 p.m. - 1:00 p.m. : Break and having lunch");
+		System.out.println("1:00 p.m. - 5:30 p.m. : attend class");
+		System.out.println("5:30 p.m. - 6:00 p.m. : Go to mall and get some foods/snacks");
+		System.out.println("6:00 p.m. - 7:00 p.m. : Have dinner with friends");
+		System.out.println("7:00 p.m. - 7:30 p.m. : Back to inasis");
+		System.out.println("7:30 p.m. - 8:00 p.m. : Rest");
+		System.out.println("8:00 p.m. - 10:00 p.m. : Checking/ work with assignemnt / programming session");
+		System.out.println("10:00 p.m. - 11:00 p.m. : Entertainment time/exploring to social media, prepared for the next day TO DO LIST");
+		System.out.println("11:00 p.m. : The end of the day");
 	}
-
 }
